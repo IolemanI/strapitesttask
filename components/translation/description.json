@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_translation_descriptions",
+  "info": {
+    "name": "Description",
+    "icon": "align-justify"
+  },
+  "options": {},
+  "attributes": {
+    "EN": {
+      "type": "richtext"
+    },
+    "DE": {
+      "type": "richtext"
+    },
+    "ES": {
+      "type": "richtext"
+    }
+  }
+}

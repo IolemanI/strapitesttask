@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_translation_sub_titles",
+  "info": {
+    "name": "SubTitle",
+    "icon": "align-center"
+  },
+  "options": {},
+  "attributes": {
+    "EN": {
+      "type": "string"
+    },
+    "DE": {
+      "type": "string"
+    },
+    "ES": {
+      "type": "string"
+    }
+  }
+}

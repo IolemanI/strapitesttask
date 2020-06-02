@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_translation_titles",
+  "info": {
+    "name": "Title",
+    "icon": "ad"
+  },
+  "options": {},
+  "attributes": {
+    "EN": {
+      "type": "string"
+    },
+    "DE": {
+      "type": "string"
+    },
+    "ES": {
+      "type": "string"
+    }
+  }
+}
